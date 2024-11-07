@@ -5,11 +5,11 @@
 
 - 📫 Você pode entrar em contato comigo no e-mail **davinogueira003@gmail.com**
 
-- 📄 Você pode ver mais sobre minha experiência aqui [www.linkedin.com/in/davipizao](www.linkedin.com/in/davipizao)
+- 📄 Você pode ver mais sobre minha experiência aqui [https://www.linkedin.com/in/davipizao](https://www.linkedin.com/in/davipizao)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/davipizao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/davipizao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/davipizao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davipizao" height="30" width="40" /></a>
 <a href="https://instagram.com/davi.pizao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davi.pizao" height="30" width="40" /></a>
 </p>
 
